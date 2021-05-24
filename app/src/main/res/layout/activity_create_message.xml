@@ -30,6 +30,4 @@
         android:onClick="onSendMessage"
         android:text="@string/send" />
 
-
-
 </LinearLayout>
